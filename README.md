@@ -6,6 +6,7 @@ A mudança na programação que pegamos da internet foi considerável, uma vez q
 
 Não é necessário instalar o arquivo zip. 
 
+explicação do jogo: https://drive.google.com/file/d/1ZSgiw2xeRIm_zNHXD781dxvdVpZ0L3qz/view?usp=drive_link
 
 Autores 
 Ana Clara Finkbeiner @AnaFinkbeiner

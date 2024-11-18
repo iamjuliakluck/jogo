@@ -4,6 +4,8 @@ O jogo da memória que desenvolvemos inicialmente no Replit e depois migramos pa
 Mas não conseguimos adicionar isso pois a programação já estava muito difícil de funcionar.
 A mudança na programação que pegamos da internet foi considerável, uma vez que usamos a codificação de um autor anônimo retirado do site myCompiler e utilizamos o ChatGPT para aperfeiçoar.
 
+Não é necessário instalar o arquivo zip. 
+
 
 Autores 
 Ana Clara Finkbeiner @AnaFinkbeiner
